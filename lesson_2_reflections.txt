@@ -22,3 +22,8 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+In Scarlet town where I was born
+There was a fair maid dwelling
+And every youth cried well away
+For her name was Barbara Allen
